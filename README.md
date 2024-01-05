@@ -1,1 +1,3 @@
 # AI-Image-Generation
+Hello! I kicked off 2024 by setting a goal to work on mini-projects, and I started by practicing some HTML, CSS, and Javascript. So, I took on a project to create a website for generating images through prompts that will be analyzed by an AI ChatGPT API. The page takes the entered text and the desired number of images (up to 4), and voilà! The images are created, with the option to download them using a button for easy access on our computer or mobile device
+[ia-image-generator.webm](https://github.com/SofiaGenchi/AI-Image-Generation/assets/92803854/db32c19d-f40e-4483-8d00-aa0c11b9e7c7)
